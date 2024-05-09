@@ -16,7 +16,7 @@ timezone:
 
 title: Durgaprasad Nagarkatte # the main title
 
-tagline: My personal blog # it will display as the sub-title
+tagline: My personal blog sharing my learnings and experiences. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Durgaprasad Nagarkatte's personal blog for technical writing.
@@ -28,8 +28,8 @@ url: "https://durgaprasad-nagarkatte.github.io"
 github:
   username: durgaprasad-nagarkatte # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
